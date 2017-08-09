@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:title="Directory"
+        android:id="@+id/text_default_folder"
+        android:key="DEFAULT_FOLDER"
+        android:summary="Please choose the default directory">
+    </EditTextPreference>
+
+</PreferenceScreen>
